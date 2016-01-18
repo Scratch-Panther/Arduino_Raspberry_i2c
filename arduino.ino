@@ -1,5 +1,7 @@
 /* Arduino as slave connected to Raspbery Pi via i2c
- * with 433MHz receiver to receive remote sensor data
+ * with 433MHz receiver to receive remote sensor data.
+ * A remote Arduino with a 433MHz transmitter has send 
+ * a float using the Virtual Wire Library.
  *
  * Connect to Raspberry Pi as follows:-
  * GND to GND
